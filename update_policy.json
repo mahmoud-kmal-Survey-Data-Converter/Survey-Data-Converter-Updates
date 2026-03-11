@@ -1,13 +1,13 @@
 {
-  "latest_version": "2.6.5",
+  "latest_version": "2.6.6",
   "min_supported": "2.5.5",
-  "patch_available_from": "2.5.5",
+  "patch_available_from": "2.6.5",
   "files": {
     "patch": {
-      "url": "https://github.com/mahmoud-kmal-Survey-Data-Converter/Survey-Data-Converter-Updates/releases/download/v2.6.5/00_SurveyDataConverter_Update_v2.6.5.zip"
+      "url": "https://github.com/mahmoud-kmal-Survey-Data-Converter/Survey-Data-Converter-Updates/releases/download/2.6.6/SurveyDataConverter_Update_v2.6.6.zip"
     },
     "full": {
-      "url": "https://github.com/mahmoud-kmal-Survey-Data-Converter/Survey-Data-Converter-Updates/releases/download/v2.6.5/99_SurveyDataConverterPro_v2.6.5_setup.exe"
+      "url": "https://github.com/mahmoud-kmal-Survey-Data-Converter/Survey-Data-Converter-Updates/releases/download/2.6.6/SurveyDataConverterPro_v2.6.6_setup.exe"
     }
   }
 }
